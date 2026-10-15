@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Samsung Launcher</string>
+    <string name="title_activity_main">Samsung Launcher</string>
+    <string name="package_name">com.mycustom.launcher</string>
+    <string name="custom_url_scheme">com.mycustom.launcher</string>
+</resources>
